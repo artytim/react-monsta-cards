@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-monsta-cards/static/css/main.11319235.chunk.css",
+    "main.js": "/react-monsta-cards/static/js/main.1d53bc91.chunk.js",
+    "main.js.map": "/react-monsta-cards/static/js/main.1d53bc91.chunk.js.map",
+    "runtime-main.js": "/react-monsta-cards/static/js/runtime-main.c43fa166.js",
+    "runtime-main.js.map": "/react-monsta-cards/static/js/runtime-main.c43fa166.js.map",
+    "static/js/2.580db2ef.chunk.js": "/react-monsta-cards/static/js/2.580db2ef.chunk.js",
+    "static/js/2.580db2ef.chunk.js.map": "/react-monsta-cards/static/js/2.580db2ef.chunk.js.map",
+    "index.html": "/react-monsta-cards/index.html",
+    "precache-manifest.103e56f2baf734405f53b0a92fbe9418.js": "/react-monsta-cards/precache-manifest.103e56f2baf734405f53b0a92fbe9418.js",
+    "service-worker.js": "/react-monsta-cards/service-worker.js",
+    "static/css/main.11319235.chunk.css.map": "/react-monsta-cards/static/css/main.11319235.chunk.css.map",
+    "static/js/2.580db2ef.chunk.js.LICENSE.txt": "/react-monsta-cards/static/js/2.580db2ef.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c43fa166.js",
+    "static/js/2.580db2ef.chunk.js",
+    "static/css/main.11319235.chunk.css",
+    "static/js/main.1d53bc91.chunk.js"
+  ]
+}
